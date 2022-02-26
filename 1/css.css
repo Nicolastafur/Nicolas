@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background-color: palegreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+table, tr, td{
+    border: 2px solid black;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-size: 78px;
+}
+
+.lol1{
+    background-color: aqua;
+    color: blue;
+    border: 2px solid red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lol1:hover{
+    background-color: chocolate;
+    color: black;
+}
+ 
+.and12{
+    background-color: blue;
+    color: black;
+    border: 2px solid green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.and12:hover{
+    background-color: brown;
+    color: darksalmon;
+}
